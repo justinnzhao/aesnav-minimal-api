@@ -1,0 +1,10 @@
+{
+  "name": "aesnav-minimal-api",
+  "private": true,
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "pdfkit": "^0.13.0"
+  }
+}
